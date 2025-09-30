@@ -1,3 +1,4 @@
+%% Note: This script calculates compound interest.
 -module(main).
 -export([compound/3, main/0]).
 
